@@ -3,14 +3,6 @@
 This repository is for our COMP3104 DevOps group assignment
 at George Brown College.
 
-We are using Git and GitHub to practice version control,
-branching, and collaboration.
-
-Each group member will work on their own branch and
-create three text files for the assignment.
-
-We will also use GitHub Actions for continuous integration.
-
 ## Team Members
 
 - Team Leader:
