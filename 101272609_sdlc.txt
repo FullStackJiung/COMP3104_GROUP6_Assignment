@@ -1,0 +1,25 @@
+DevOps and SDLC
+
+SDLC stands for Software Development Life Cycle.
+It includes planning, designing, developing,
+testing, and maintaining software.
+
+DevOps can be used during different parts
+of the software development process.
+
+DevOps helps developers and operations teams
+work together on software projects.
+Team members can share changes using GitHub
+and review each other's work.
+
+This is important when several people are
+working on the same project.
+
+Another part of DevOps is automation.
+GitHub Actions can run checks when new code
+is pushed to a repository.
+
+This is called continuous integration, or CI.
+It helps developers find problems earlier.
+Automated checks can also save time because
+we do not need to run every check manually.
