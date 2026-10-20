@@ -1,0 +1,5 @@
+DevOps Course
+
+In this course, we learn about DevOps and the tools
+developers use when working on projects.
+We use Git and GitHub to manage our files.
