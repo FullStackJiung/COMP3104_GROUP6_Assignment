@@ -8,3 +8,8 @@ Git is used to track changes in a project.
 We can use git add to select changed files
 and git commit to save those changes.
 We can also check previous commits using git log.
+
+GitHub lets us store our Git repositories online.
+Each team member can create a separate branch.
+This allows us to work on our own files without
+making changes directly to the main branch.
