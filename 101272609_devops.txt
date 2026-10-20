@@ -3,3 +3,8 @@ DevOps Course
 In this course, we learn about DevOps and the tools
 developers use when working on projects.
 We use Git and GitHub to manage our files.
+
+Git is used to track changes in a project.
+We can use git add to select changed files
+and git commit to save those changes.
+We can also check previous commits using git log.
