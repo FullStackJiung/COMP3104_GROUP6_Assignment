@@ -6,3 +6,11 @@ testing, and maintaining software.
 
 DevOps can be used during different parts
 of the software development process.
+
+DevOps helps developers and operations teams
+work together on software projects.
+Team members can share changes using GitHub
+and review each other's work.
+
+This is important when several people are
+working on the same project.
