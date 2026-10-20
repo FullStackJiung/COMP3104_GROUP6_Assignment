@@ -8,3 +8,8 @@ The college offers programs in business, technology,
 health sciences, and other areas.
 In my program, we study programming, databases,
 and software development.
+
+We have assignments and projects in our courses.
+Some projects require us to work with other students.
+I think group projects are useful because we can
+learn how to share work and solve problems together.
