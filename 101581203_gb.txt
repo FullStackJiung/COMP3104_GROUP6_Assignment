@@ -11,3 +11,7 @@ systems analysis, and practical programming projects.
 One aspect I value about George Brown is the focus on practical learning.
 Many courses require students to build applications, work with development tools,
 and solve problems that are similar to real workplace situations.
+
+Group projects also help students practice teamwork, communication,
+version control, and task coordination. These skills are important
+because software development is usually a collaborative process.
