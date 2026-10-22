@@ -11,3 +11,8 @@ GitHub provides a remote platform for hosting Git repositories.
 Developers can work on individual branches without changing the stable
 main branch. This makes it possible for multiple contributors to work
 on the same project at the same time.
+
+Continuous Integration is another important DevOps concept.
+A CI pipeline can automatically run checks whenever changes are pushed.
+GitHub Actions provides workflows that help teams validate changes
+before they are merged into the main branch.
