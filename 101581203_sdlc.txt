@@ -1,0 +1,7 @@
+DevOps and the Software Development Life Cycle
+
+The Software Development Life Cycle, or SDLC, describes the stages used
+to plan, design, develop, test, deploy, and maintain software.
+
+DevOps supports the SDLC by connecting development work with testing,
+deployment, operations, and continuous feedback.
