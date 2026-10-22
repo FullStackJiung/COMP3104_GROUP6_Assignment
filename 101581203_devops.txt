@@ -1,0 +1,8 @@
+COMP3104 DevOps
+
+The COMP3104 DevOps course introduces tools and practices used to improve
+collaboration between software development and operations teams.
+
+Git is one of the main tools used in the course.
+It allows developers to track changes, create branches, compare versions,
+and maintain a complete history of a project.
