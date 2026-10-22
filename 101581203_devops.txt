@@ -6,3 +6,8 @@ collaboration between software development and operations teams.
 Git is one of the main tools used in the course.
 It allows developers to track changes, create branches, compare versions,
 and maintain a complete history of a project.
+
+GitHub provides a remote platform for hosting Git repositories.
+Developers can work on individual branches without changing the stable
+main branch. This makes it possible for multiple contributors to work
+on the same project at the same time.
