@@ -1,0 +1,22 @@
+COMP3104 DevOps
+
+The COMP3104 DevOps course introduces tools and practices used to improve
+collaboration between software development and operations teams.
+
+Git is one of the main tools used in the course.
+It allows developers to track changes, create branches, compare versions,
+and maintain a complete history of a project.
+
+GitHub provides a remote platform for hosting Git repositories.
+Developers can work on individual branches without changing the stable
+main branch. This makes it possible for multiple contributors to work
+on the same project at the same time.
+
+Continuous Integration is another important DevOps concept.
+A CI pipeline can automatically run checks whenever changes are pushed.
+GitHub Actions provides workflows that help teams validate changes
+before they are merged into the main branch.
+
+Pull requests add an additional review step to the workflow.
+They allow team members to review proposed changes, discuss problems,
+resolve conflicts, and confirm that automated checks pass before merging.
