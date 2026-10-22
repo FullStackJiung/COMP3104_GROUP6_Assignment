@@ -7,3 +7,7 @@ construction, and many other areas.
 I am studying Computer Programming and Analysis.
 My program includes software development, databases, web development,
 systems analysis, and practical programming projects.
+
+One aspect I value about George Brown is the focus on practical learning.
+Many courses require students to build applications, work with development tools,
+and solve problems that are similar to real workplace situations.
