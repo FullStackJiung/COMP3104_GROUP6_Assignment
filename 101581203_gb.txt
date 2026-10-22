@@ -1,0 +1,9 @@
+George Brown Polytechnic
+
+George Brown Polytechnic is a public post-secondary institution in Toronto, Ontario.
+It offers programs in technology, business, health sciences, design, hospitality,
+construction, and many other areas.
+
+I am studying Computer Programming and Analysis.
+My program includes software development, databases, web development,
+systems analysis, and practical programming projects.
